@@ -4,9 +4,9 @@
     "label": "iOS Engineer",
     "picture": "hilmar.jpg",
     "email": "hilmarbirgir@gmail.com",
-    "phone": "(354) 691-7879",
+    "phone": "(+354) 691-7879",
     "website": "http://hilmar.tech",
-    "summary": "A hard working disciplined iOS engineer with 5 years of experience. Loves Swift, unit testing, fastlane, automation and trying the newest things in iOS. I'm a team player and have experience assembling and leading a team. I've spent the last 4 years building QuizUp and I'm now looking for my next adventure.",
+    "summary": "A hard working, disciplined iOS engineer with 5 years of experience. I love  Swift, unit testing, fastlane, automation and trying the newest things in iOS. I'm a team player and have experience assembling and leading a team. I've spent the last 4 years building QuizUp and I'm now looking for my next challenge.",
     "location": {
       "address": "Stakkholt 2A",
       "postalCode": "105",
@@ -23,7 +23,7 @@
       "website": "https://quizup.com",
       "startDate": "2013-01-01",
       "endDate": "2016-12-01",
-      "summary": "QuizUp is a trivia game that first came out in 2013. Through its lifetime it has gotten over 50 million downloads on iOS and reached #1 in the app store of 136 countries. I joined the company in the very beginning. I was employee number 6. After the company started to grow I took on the role of leading our iOS discipline which included 7 developers at its largest. My responsibilities as iOS lead included interviewing, hiring and training employees and leading our overall iOS architecture.   Our iOS mantra is test and automate everything. We have over 6000 unit tests and fully automated pipelines for testing, distributing test builds and submitting to the app store. All using fastlane. The app is mostly Objective C but all new code is now written in Swift.",
+      "summary": "QuizUp is a trivia game that first came out in November, 2013. Through its lifetime it has gotten over 50 million downloads on iOS and reached #1 in the Apple App Store of 136 countries. I was employee number 6 and after the company started to grow I took on the role of leading our iOS discipline which included 7 developers at its largest. My responsibilities as iOS lead included interviewing, hiring and training employees and leading our overall iOS architecture. Our iOS mantra is test and automate everything. We have over 6000 unit tests that run in under a minute and fully automated pipelines (using fastlane) for testing, distributing test builds and submitting to the App Store. The app is mostly Objective-C but all new code is now written in Swift.",
       "highlights": []
     },
     {
@@ -32,7 +32,7 @@
       "website": "http://www.jl.is/",
       "startDate": "2011-06-01",
       "endDate": "2012-09-01",
-      "summary": "Jónsson & Lemacks is an ad agency in Reykjavík. I was doing full stack web development using Python Flask / Django for the backend and for the front end I used html/css/javascript with libraries that were popular at the time such as backbone and coffeescript. Clients included Landsbankinn, TM, 66 north, Thule, The Grillmarket and many more.",
+      "summary": "Jónsson & Lemacks is an ad agency in Reykjavík. I was doing full stack web development using Python, Flask / Django for the backend and for the front end I used html/css/javascript with libraries that were popular at the time such as backbone and coffeescript. Clients included local companies such as Landsbankinn, TM, 66 North, Thule, The Grillmarket and many more.",
       "highlights": []
     }
   ],
@@ -62,14 +62,14 @@
       "publisher": "",
       "releaseDate": "",
       "website": "https://itunes.apple.com/lb/app/reykjavik-appy-hour/id536126333?mt=8",
-      "summary": "App that shows current happy hours in Reykjavík. Made in collaboration with Reykjavík Grapevine. One of the most popular apps in Iceland in the past years. Nominated for a Nexpó award in 2012. Still pretty popular."
+      "summary": "App that shows current happy hours in Reykjavík. Made in collaboration with Reykjavík Grapevine. One of the most popular apps in Iceland for the past years. Nominated for an Nexpó award in 2012. The app is UIKit Objective-C and the backend is Django."
     },
     {
       "name": "Craving",
       "publisher": "",
       "releaseDate": "",
       "website": "https://itunes.apple.com/is/app/craving/id904028256?mt=8",
-      "summary": "App that gives you a random restaurant recommendation in Reykjavík. Made in collaboration with Reykjavík Grapevine."
+      "summary": "App that gives you a random restaurant recommendation in Reykjavík. Made in collaboration with Reykjavík Grapevine. The app is UIKit Objective-C and the backend is Django."
     }
   ],
   "skills": [
@@ -79,9 +79,12 @@
       "keywords": [
         "Objective-C",
         "Swift",
-        "Testing",
+        "Writing testable code",
         "Automation",
-        "Fastlane"
+        "Fastlane",
+        "Apple Developer Portal",
+        "UIKit",
+        "Autolayout"
       ]
     },
     {
@@ -108,11 +111,11 @@
   "interests": [],
   "references": [
     {
-      "name": "Thor Fridriksson, CEO QuizUp",
+      "name": "Thor Fridriksson, CEO QuizUp (thorsteinn@plainvanillagames.com / +354 659-6000 )",
       "reference": ""
     },
     {
-      "name": "Jóhann Þorvaldsson, CTO QuizUp",
+      "name": "Jóhann Þorvaldur Bergþórsson, CTO QuizUp (johann@quizup.com / +354 662-4766)",
       "reference": ""
     }
   ]
