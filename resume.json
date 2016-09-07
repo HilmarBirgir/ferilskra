@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Hilmar Birgir Ólafsson",
+    "label": "iOS Engineer",
+    "picture": "hilmar.jpg",
+    "email": "hilmarbirgir@gmail.com",
+    "phone": "(354) 691-7879",
+    "website": "http://hilmar.tech",
+    "summary": "A hard working disciplined iOS engineer with 5 years of experience. Loves Swift, unit testing, fastlane, automation and trying the newest things in iOS. I'm a team player and have experience assembling and leading a team. I've spent the last 4 years building QuizUp and I'm now looking for my next adventure.",
+    "location": {
+      "address": "Stakkholt 2A",
+      "postalCode": "105",
+      "city": "Reykjavík",
+      "countryCode": "IS",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "QuizUp",
+      "position": "Lead iOS Developer",
+      "website": "https://quizup.com",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-01",
+      "summary": "QuizUp is a trivia game that first came out in 2013. Through its lifetime it has gotten over 50 million downloads on iOS and reached #1 in the app store of 136 countries. I joined the company in the very beginning. I was employee number 6. After the company started to grow I took on the role of leading our iOS discipline which included 7 developers at its largest. My responsibilities as iOS lead included interviewing, hiring and training employees and leading our overall iOS architecture.   Our iOS mantra is test and automate everything. We have over 6000 unit tests and fully automated pipelines for testing, distributing test builds and submitting to the app store. All using fastlane. The app is mostly Objective C but all new code is now written in Swift.",
+      "highlights": []
+    },
+    {
+      "company": "Jónsson & Lemacks",
+      "position": "Web Developer",
+      "website": "http://www.jl.is/",
+      "startDate": "2011-06-01",
+      "endDate": "2012-09-01",
+      "summary": "Jónsson & Lemacks is an ad agency in Reykjavík. I was doing full stack web development using Python Flask / Django for the backend and for the front end I used html/css/javascript with libraries that were popular at the time such as backbone and coffeescript. Clients included Landsbankinn, TM, 66 north, Thule, The Grillmarket and many more.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Iceland",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelor of science",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Webby Award",
+      "date": "2014-04-16",
+      "awarder": "Webby Awards",
+      "summary": "Winner of best social game and the people's choice award for best game."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Development",
+      "level": "Master",
+      "keywords": [
+        "Objective-C",
+        "Swift",
+        "Testing",
+        "Automation",
+        "Fastlane"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "Django",
+        "Flask",
+        "html / css / javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker level"
+    },
+    {
+      "language": "Icelandic",
+      "fluency": "Native speaker level"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Thor Fridriksson, CEO QuizUp",
+      "reference": ""
+    },
+    {
+      "name": "Jóhann Þorvaldsson, CTO QuizUp",
+      "reference": ""
+    }
+  ]
+}
